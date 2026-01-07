@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">微信红包助手</string>
+    <string name="service_name">微信红包自动领取服务</string>
+    <string name="service_description">启用此服务后，应用可自动检测并点击微信红包及“開”按钮。本工具不修改微信源码，仅模拟人工点击。</string>
+</resources>
